@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rehansbari
-- 👀 I’m interested in cloud computing
-- 🌱 I’m currently learning routing & switching - in pursuit of my CCNA
+- 👀 I’m interested in cloud computing, cybersecurity, and IT in general. 
+- 🌱 I’m trying to become the best IT professional that I can be
 
 <!---
 rehansbari/rehansbari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
