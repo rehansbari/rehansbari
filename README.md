@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rehansbari
-- 👀 I’m interested in cloud computing, cybersecurity, and IT in general. 
+- 👀 I’m interested in cloud computing, cybersecurity, programming, and IT in general. 
 - 🌱 I’m trying to become the best IT professional that I can be
 
 <!---
